@@ -21,7 +21,7 @@ export default function Layout(){
         Rubik_700Bold
     })
 
-    if(fontsLoaded){
+    if(!fontsLoaded){
         return <Loading />
     }
 
