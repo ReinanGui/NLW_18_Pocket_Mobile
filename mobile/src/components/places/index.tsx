@@ -5,6 +5,7 @@ import { Place, PlaceProps } from "../place";
 import BottomSheet, { BottomSheetFlatList} from "@gorhom/bottom-sheet"
 
 import { s } from './styles'
+import { router } from "expo-router";
 
 
 type Props = {
@@ -35,7 +36,11 @@ export function Places({ data }: Props) {
                 <Text style={s.title}>Explore locais perto de você</Text>
             )}
             showsVerticalScrollIndicator={false}
-            renderItem={({item}) => <Place data={item} />}/>
+            renderItem={({item}) => 
+            <Place 
+            data={item} 
+            onPress={() => router.navigate(`/market/${item.id}`)}
+            />}/>
         </BottomSheet>
     )
 }
