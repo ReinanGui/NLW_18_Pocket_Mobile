@@ -40,11 +40,11 @@ O **Nearby** é um aplicativo de clube de benefícios que permite aos usuários 
 
 ### Mapa com Callouts e Filtro de Categorias
 
-<img src="./images/mapa-com-callouts.jpg" alt="Mapa com Callouts" width="400" />
+<img src="./mobile/assets/images/mapa-com-callouts.jpg" alt="Mapa com Callouts" width="400" />
 
 ### Detalhes do Local
 
-<img src="./images/detalhes-do-local.jpg" alt="Detalhes do Local" width="400" />
+<img src="./mobile/assets/images/detalhes-do-local.jpg" alt="Detalhes do Local" width="400" />
 
 ## Como Executar o Projeto
 
