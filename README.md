@@ -40,11 +40,11 @@ O **Nearby** é um aplicativo de clube de benefícios que permite aos usuários 
 
 ### Mapa com Callouts e Filtro de Categorias
 
-![Mapa com Callouts](./mobile/assets/images/mapa-com-callouts.jpg)
+<img src="./images/mapa-com-callouts.jpg" alt="Mapa com Callouts" width="400" />
 
 ### Detalhes do Local
 
-![Detalhes do Local](./mobile/assets/images/detalhes-do-local.jpg)
+<img src="./images/detalhes-do-local.jpg" alt="Detalhes do Local" width="400" />
 
 ## Como Executar o Projeto
 
@@ -69,6 +69,4 @@ O **Nearby** é um aplicativo de clube de benefícios que permite aos usuários 
 ## Conclusão
 
 Este projeto foi uma excelente oportunidade para aprofundar conhecimentos em desenvolvimento mobile e aprender novas ferramentas e boas práticas. A experiência do evento foi enriquecedora, com suporte da comunidade e acompanhamento dos especialistas da Rocketseat.
-
-Qualquer dúva ou sugestão, sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**. 🚀
 
