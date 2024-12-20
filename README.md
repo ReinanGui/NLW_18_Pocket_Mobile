@@ -50,7 +50,7 @@ O **Nearby** é um aplicativo de clube de benefícios que permite aos usuários 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nlw-pocket-nearby.git
+   git clone https://github.com/ReinanGui/NLW_18_Pocket_Mobile.git
    ```
 2. Navegue até a pasta do projeto:
    ```bash
